@@ -1,3 +1,6 @@
+### June 8:
+Copied in my power circuit from my previous trail project and got it layed out. Pic coming soon.
+
 ### June 7:
 v1 of pcb layout is complete! put it in cad and now have a good basic mockup:
 ![](images/cad1.png)
