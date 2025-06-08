@@ -1,5 +1,9 @@
+### June 7:
+v1 of pcb layout is complete! put it in cad and now have a good basic mockup:
+![](images/cad1.png)
+
 ### June 6:
-fuck around in cad
+fuck around in cad/easyeda
 
 ### June 5:
 Started planning out my PCB in EasyEDA Pro, and I am now legitimately shocked how much of a struggle I can turn placing a single pin header into pf. 
