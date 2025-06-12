@@ -1,3 +1,11 @@
+### June 11:
+oh and i have no idea how to mount the board in the case
+ALL HAIL OUR LORD AND SAVIOR: https://lcsc.com/product-detail/image/FH-00205_C2685098.html:
+![](images/hellyeah.png)
+
+Back in CAD today, and while mocking up witrh a Pi, I realized that the header I'm using isn't quite tall enough, so I'm going to have to replace it:
+![](images/uhoh.png)
+
 ### June 8:
 Copied in my power circuit from my previous trail project and got it layed out. Pic coming soon.
 
