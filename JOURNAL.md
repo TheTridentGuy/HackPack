@@ -1,4 +1,13 @@
-### Total time: 11hrs
+### Total time: 15hrs
+### June 12:
+5hrs
+
+Also put in screws, etc:
+![](images/mounted1.png)
+Took an eternity, but I finally figured out how to mount the board in there!
+Today I'm back in CAD. it took me forever, and quite a few revisions, but i finally got these things that will eventually support the pi kinda working, and properly mating, The ridges were a massive pain, even though they're key to my design:
+![](images/corners1.png)
+
 ### June 11:
 5 hrs
 
