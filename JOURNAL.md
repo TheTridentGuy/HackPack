@@ -2,14 +2,15 @@
 ### June 14:
 2hrs
 
-Today is mainly preparing to submit since I'm leaving for vacation tomorrow. JLCPCB's website is still refusing to works, so I might not have a good quote on the PCBs. I cleaned up the repo, made final changes to the PCB and CAD, and went over all the guidelines.
+Today is mainly preparing to submit since I'm leaving for vacation tomorrow. JLCPCB's website is still refusing to works, so I might not have a good quote on the PCBs. I cleaned up the repo, made final changes to the PCB and CAD, and went over all the guidelines. Also made some relatively minor cad changes.
 
 ### June 13:
 4hrs
 
 JLCPCB's website FUCKING SUCKS
 
-In the very real case that PCB assembly gets pricey, my contingency pla is to solder the top myself.
+In the very real case that PCB assembly gets pricey, my contingency plan is to solder the top myself. Also added RJ45 passthrough in CAD:
+![](images/cad2.png)
 
 ### June 12:
 5hrs
