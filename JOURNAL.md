@@ -1,10 +1,23 @@
-### Total time: 15hrs
+### Total time: 21hrs
+### June 14:
+2hrs
+
+Today is mainly preparing to submit since I'm leaving for vacation tomorrow. JLCPCB's website is still refusing to works, so I might not have a good quote on the PCBs. I cleaned up the repo, made final changes to the PCB and CAD, and went over all the guidelines.
+
+### June 13:
+4hrs
+
+JLCPCB's website FUCKING SUCKS
+
+In the very real case that PCB assembly gets pricey, my contingency pla is to solder the top myself.
+
 ### June 12:
 5hrs
 
 Also put in screws, etc:
 ![](images/mounted1.png)
 Took an eternity, but I finally figured out how to mount the board in there!
+
 Today I'm back in CAD. it took me forever, and quite a few revisions, but i finally got these things that will eventually support the pi kinda working, and properly mating, The ridges were a massive pain, even though they're key to my design:
 ![](images/corners1.png)
 
