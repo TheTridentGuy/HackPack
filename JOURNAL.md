@@ -1,4 +1,9 @@
-### Total time: 21hrs
+### Total time: 21hrs 30m
+### June 24:
+30m
+
+Ordered parts after a ton of struggling with JLCPCB's website!
+
 ### June 14:
 2hrs
 
