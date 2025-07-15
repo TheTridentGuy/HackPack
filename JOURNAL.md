@@ -2,6 +2,7 @@
 ### July 15:
 
 All the parts have finally arrived, and I'm back from undercity! I just finished soldering everything together, though I think I might redo the standoffs for the screen with a custom 3d print. 
+![](images/20250715_151234.jpg)![](images/20250715_151225.jpg)
 
 ### June 24:
 30m
