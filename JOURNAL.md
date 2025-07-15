@@ -1,7 +1,7 @@
 ### Total time: 21hrs 30m
 ### July 15:
 
-All the parts have finally arrived, and I'm back from undercity! I just finished soldering everything together, though I think I might redo the standoffs for the screen with a custom 3d print. 
+All the parts have finally arrived, and I'm back from undercity! I just finished soldering everything together, though I think I might redo the standoffs for the screen with a custom 3d print. I tested the hat, and it seems I got lucky, It's outputting 5.25v which is just on the edge of the Pi's 4.75-5.25v acceptable range.
 ![](images/20250715_151234.jpg)![](images/20250715_151225.jpg)
 
 ### June 24:
