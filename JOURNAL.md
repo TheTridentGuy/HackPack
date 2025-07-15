@@ -1,4 +1,8 @@
 ### Total time: 21hrs 30m
+### July 15:
+
+All the parts have finally arrived, and I'm back from undercity! I just finished soldering everything together, though I think I might redo the standoffs for the screen with a custom 3d print. 
+
 ### June 24:
 30m
 
