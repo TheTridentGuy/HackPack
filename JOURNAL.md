@@ -1,4 +1,13 @@
 ### Total time: 21hrs 30m
+
+### July 22:
+
+Project complete!
+
+I iterated the case mount several times over the past few days, and finally got it to a place where I like it:
+![](images/20250721_154449.jpg)![](images/20250721_154458.jpg)![](images/20250721_154503.jpg)![](images/20250721_154516.jpg)![](images/20250721_154525.jpg)
+
+
 ### July 15:
 
 All the parts have finally arrived, and I'm back from undercity! I just finished soldering everything together, though I think I might redo the standoffs for the screen with a custom 3d print. I tested the hat, and it seems I got lucky, It's outputting 5.25v which is just on the edge of the Pi's 4.75-5.25v acceptable range.
