@@ -3,6 +3,11 @@
 ## Final notes:
 CAD couldn't prepare me for every design issue I ran in to at the "integration hell" stage. There are a lot of minor design flaws, and I've learned a LOT. Stay tuned, I may give this a second shot, with the goal of perfecting this project (never gonna happen, but it's a good goal to aspire to).
 
+### August 2:
+
+Did a bunch of work on the display, and it fully works now, so...
+![](images/display2.png)
+
 ### July 22:
 
 Project complete!
