@@ -1,4 +1,4 @@
-# Hack Pack
+# HackPack
 ## Raspberry Pi based computer that you can pack in a backpack and hack on the go.
 ![](images/display2.png)
 ![](images/20250721_154449.jpg)![](images/20250721_154516.jpg)
