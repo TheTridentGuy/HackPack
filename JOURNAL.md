@@ -12,7 +12,7 @@ Did a bunch of work on the display, and it fully works now, so...
 
 Project complete!
 
-I iterated the case mount several times over the past few days, and finally got it to a place where I like it:
+I iterated the case mount several times over the past few days, and finally got it to a place where I like it. A funny mistake I made along the way was when I first tried adding handles, I accidentally made the attachment hole only on one side, and didn't notice until I went to go put them on:
 ![](images/20250721_154449.jpg)![](images/20250721_154458.jpg)![](images/20250721_154503.jpg)![](images/20250721_154516.jpg)![](images/20250721_154525.jpg)
 
 
